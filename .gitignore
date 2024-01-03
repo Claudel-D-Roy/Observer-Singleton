@@ -1,0 +1,9 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/Tp1Genie/.vs
+/Tp1Genie/bin/Debug/net7.0
+/Tp1Genie/obj
+.vs/Tp1Genie/v17/.suo
+.vs/Tp1Genie/FileContentIndex/a7ef987d-5886-48ce-bd19-743df7534f17.vsidx
